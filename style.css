@@ -18,6 +18,10 @@ item name {
     color: #40DA20; 
     width: 160px;
 }
+item category {
+    display:inline-block; 
+    color: rgb(102, 0, 102);
+}
 item price{
     font-size:28px; 
     display:inline-block;
