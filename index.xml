@@ -2,8 +2,16 @@
 <?xml-stylesheet type="text/css" href = "style.css" ?>
 <product> 
     <item>
-        <name>carnation</name>
-        <price>10</price>
-        <description> </description>
+        <name> Lavendar </name>
+        <category> Herbal </category>
+        <price>15</price>
+        <description> Behold, the lavender candle: because your existence is so mundane, you need a glorified wax stick to remind you of the outdoors. 
+            Let the soothing aroma of lavender mock your futile attempts at finding inner peace, while you drown in a sea of mediocrity. </description>
+    </item>
+    <item>
+        <name> Birthday Cake </name>
+        <category> Sweet </category>
+        <price>13</price>
+        <description> Behold, the birthday cake scented candle: because apparently, the sweet smell of disappointment and aging is what everyone desires on their special day. </description>
     </item>
 </product>
