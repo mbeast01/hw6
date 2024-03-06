@@ -1,13 +1,9 @@
 @charset "utf-8";
 
-body{
-    background-color: rgb(204, 153, 255);
-}
-
 product {
     width: 60%; 
     margin: 100px auto 0 auto; 
-    border:.5px solid #4E4FD0; 
+    border:.5px solid rgb(102, 0, 102); 
     min-height: 300px; 
     padding: 20px;
     background-color: rgb(102, 255, 204);
@@ -20,12 +16,13 @@ item name {
     display:inline-block; 
     font-size: 36px; 
     text-transform: capitalize;
-    color: #40DA20; 
+    color: rgb(0, 51, 0); 
     width: 160px;
 }
 item category {
     display:inline-block; 
     color: rgb(102, 0, 102);
+    border: .5 px dotted rgb(102, 0, 102);
 }
 item price{
     font-size:28px; 
