@@ -1,4 +1,9 @@
 @charset "utf-8";
+
+body{
+    background-color: rgb(204, 153, 255);
+}
+
 product {
     width: 60%; 
     margin: 100px auto 0 auto; 
