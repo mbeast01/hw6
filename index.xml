@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href = "style.css" ?>
 <product> 
-    <category> Herbal
+    <category> <categoryname> Herbal </categoryname>
         <item>
             <name> Lavendar Lullaby</name>
             <price>15</price>
@@ -22,7 +22,7 @@
         </item>
     </category>
 
-    <category> Sweet
+    <category> <categoryname> Sweet </categoryname>
         <item>
             <name> Birthday Cake </name>
             <price>13</price>
@@ -40,7 +40,7 @@
         </item>
     </category>
 
-    <category> Musky
+    <category> <categoryname> Musky </categoryname>
         <item>
             <name> Leather Lounge </name>
             <price>13</price>
