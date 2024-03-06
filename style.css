@@ -11,26 +11,26 @@ item {
     display:block; 
     margin-bottom: 30px;
 }
-category item name {
+item name {
     display:inline-block; 
     font-size: 36px; 
     text-transform: capitalize;
     color: #40DA20; 
     width: 160px;
 }
-category item price{
+item price{
     font-size:28px; 
     display:inline-block;
 }
-category item price:before {
+item price:before {
     content:"$"; 
 }
-category item description: before {
+item description: before {
     content: "Color options"; 
     font-size: 22px; 
     display:block; 
 }
-category item description {
+item description {
     list-style-type:disc; 
     list-style-position: inside;
     display:list-item;
