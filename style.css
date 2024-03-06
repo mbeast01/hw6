@@ -14,6 +14,8 @@ category {
     border: .5px solid rgb(102, 0, 102);
     padding: 5px;
     margin: 10px;
+    font-size: 36px;
+    text-align: center;
 }
 category item {
     display:inline-block; 
@@ -38,6 +40,14 @@ category item price:before {
 }
 category item description: before {
     content: "Candle Descriptions"; 
+    font-size: 17px; 
+    width: 50%;
+}
+
+category item description: {
+    list-style-type:disc; 
+    list-style-position: inside;
+    display:list-item;
     font-size: 17px; 
     width: 50%;
 }
