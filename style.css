@@ -9,6 +9,7 @@ product {
     background-color: rgb(102, 255, 204);
 }
 category {
+    width: 80%;
     display:inline-block; 
     color: rgb(102, 0, 102);
     border: .5px solid rgb(102, 0, 102);
