@@ -18,9 +18,10 @@ category {
 category categoryname{
     font-size: 36px;
     text-align: center;
-    border: .5px dashed rgb(102, 0, 102);
+    border: 1px dashed rgb(102, 0, 102);
+    width: 50%;
     padding: 5px;
-    margin: 10px;
+    margin: 0 auto;
 }
 category item {
     display:inline-block; 
