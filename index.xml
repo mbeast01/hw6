@@ -25,19 +25,16 @@
     <category> Sweet
         <item>
             <name> Birthday Cake </name>
-            <category> Sweet </category>
             <price>13</price>
             <description> Presenting, the birthday cake scented candle: because apparently, the sweet smell of disappointment and aging is what everyone desires on their special day. </description>
         </item>
         <item>
             <name> Cotton Candy Catastrophe </name>
-            <category> Sweet </category>
             <price>13</price>
             <description> Transport yourself to a sugar-coated nightmare with this sickly sweet candle, guaranteed to give you a cavity just by smelling it. </description>
         </item>
         <item>
             <name> Fruity Frenzy </name>
-            <category> Sweet </category>
             <price>13</price>
             <description> Experience the overwhelming sensation of fruit punch overload, as if someone blended an entire orchard and poured it into a candle just for your olfactory pleasure. </description>
         </item>
@@ -46,13 +43,11 @@
     <category> Musky
         <item>
             <name> Leather Lounge </name>
-            <category> Musky </category>
             <price>13</price>
             <description> Embrace the aroma of refined sophistication with this candle, perfect for pretending you own a library of rare first editions while you binge-watch reality TV. </description>
         </item>
         <item>
             <name> Campfire Chronicles </name>
-            <category> Musky </category>
             <price>13</price>
             <description> Immerse yourself in the rugged essence of the great outdoors, and relive all those camping trips you never went on, now with added guilt and regret. </description>
         </item>
