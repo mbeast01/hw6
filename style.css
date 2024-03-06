@@ -16,22 +16,23 @@ category {
 category item {
     display:inline-block; 
     margin-bottom: 30px;
+    font-size: 30px;
 }
-item name {
+category item name {
     display:inline-block; 
     font-size: 20px; 
     text-transform: capitalize;
     color: rgb(0, 51, 0); 
     width: 150px;
 }
-item price{
+category item price{
     font-size:28px; 
     display:inline-block;
 }
-item price:before {
+category item price:before {
     content:"$"; 
 }
-item description: before {
+category item description: before {
     content: "Candle Descriptions"; 
     font-size: 22px; 
     display:block; 
