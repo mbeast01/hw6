@@ -6,30 +6,30 @@ products {
     min-height: 300px; 
     padding: 20px;
 }
-flower {
+item {
     display:block; 
     margin-bottom: 30px;
 }
-flower type {
+category item name {
     display:inline-block; 
     font-size: 36px; 
     text-transform: capitalize;
     color: #40DA20; 
     width: 160px;
 }
-flower price{
+category item price{
     font-size:28px; 
     display:inline-block;
 }
-flower price:before {
+category item price:before {
     content:"$"; 
 }
-flower colors:before {
+category item description: before {
     content: "Color options"; 
     font-size: 22px; 
     display:block; 
 }
-flower colors color {
+category item description {
     list-style-type:disc; 
     list-style-position: inside;
     display:list-item;
