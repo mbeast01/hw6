@@ -18,18 +18,19 @@ category {
 category item {
     display:inline-block; 
     margin-bottom: 30px;
-    font-size: 30px;
 }
 category item name {
     display:inline-block; 
-    font-size: 25px; 
+    font-size: 30px;
     text-transform: capitalize;
     text-align: center;
     color: rgb(0, 51, 0); 
+    padding:2px;
     width: 150px;
 }
 category item price{
     font-size:25px; 
+    padding: 5px;
     display:inline-block;
 }
 category item price:before {
@@ -37,7 +38,7 @@ category item price:before {
 }
 category item description: before {
     content: "Candle Descriptions"; 
-    font-size: 20px; 
-    display:block; 
+    font-size: 17px; 
+    width: 50%;
 }
 
