@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 product {
-    width: 70%; 
+    width: 80%; 
     margin: 50px auto 0 auto; 
     border:.5px solid rgb(102, 0, 102); 
     min-height: 300px; 
@@ -12,6 +12,8 @@ category {
     display:inline-block; 
     color: rgb(102, 0, 102);
     border: .5px solid rgb(102, 0, 102);
+    padding: 5px;
+    margin: 10px;
 }
 category item {
     display:inline-block; 
@@ -20,13 +22,14 @@ category item {
 }
 category item name {
     display:inline-block; 
-    font-size: 20px; 
+    font-size: 25px; 
     text-transform: capitalize;
+    text-align: center;
     color: rgb(0, 51, 0); 
     width: 150px;
 }
 category item price{
-    font-size:28px; 
+    font-size:25px; 
     display:inline-block;
 }
 category item price:before {
@@ -34,7 +37,7 @@ category item price:before {
 }
 category item description: before {
     content: "Candle Descriptions"; 
-    font-size: 22px; 
+    font-size: 20px; 
     display:block; 
 }
 
