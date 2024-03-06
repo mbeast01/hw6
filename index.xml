@@ -1,55 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href = "style.css" ?>
 <product> 
-    <category> <categoryname> Herbal </categoryname>
+    <category> 
         <item>
             <name> Lavendar Lullaby</name>
             <price>15</price>
+            <category> Herbal, Floral </category>
             <description> Behold, the lavender candle: because your existence is so monotonous, you need a glorified wax stick to remind you of the outdoors. 
                 Let the soothing aroma of lavender mock your futile attempts at finding inner peace, while you drown in a sea of mediocrity. </description>
         </item>
         <item>
             <name> Sagebrush Serenade </name>
             <price>15</price>
+            <category> Herbal, Musky </category>
             <description> Because who needs a real adventure when you can light a candle and pretend you're having a thrilling encounter with a herb? 
                 Spoiler alert: Your life will still be as mundane as ever.</description>
         </item>
         <item>
             <name> Chamomile Carnival </name>
             <price>15</price>
+            <category> Herbal, Sweet </category>
             <description> Because nothing screams excitement like the subtle scent of chamomile. 
                 Embrace the mediocrity as you reminisce about the days when you had dreams, before they were crushed by reality. </description>
         </item>
-    </category>
 
-    <category> <categoryname> Sweet </categoryname>
         <item>
             <name> Birthday Cake </name>
             <price>13</price>
+            <category> Sweet </category>
             <description> Presenting, the birthday cake scented candle: because apparently, the sweet smell of disappointment and aging is what everyone desires on their special day. </description>
         </item>
         <item>
             <name> Cotton Candy Catastrophe </name>
             <price>13</price>
+            <category> Sweet </category>
             <description> Transport yourself to a sugar-coated nightmare with this sickly sweet candle, guaranteed to give you a cavity just by smelling it. </description>
         </item>
         <item>
             <name> Fruity Frenzy </name>
             <price>13</price>
+            <category> Sweet, Floral </category>
             <description> Experience the overwhelming sensation of fruit punch overload, as if someone blended an entire orchard and poured it into a candle just for your olfactory pleasure. </description>
         </item>
-    </category>
 
-    <category> <categoryname> Musky </categoryname>
         <item>
             <name> Leather Lounge </name>
             <price>13</price>
+            <category> Sweet, Musky </category>
             <description> Embrace the aroma of refined sophistication with this candle, perfect for pretending you own a library of rare first editions while you binge-watch reality TV. </description>
         </item>
         <item>
             <name> Campfire Chronicles </name>
             <price>13</price>
+            <category> Musky </category>
             <description> Immerse yourself in the rugged essence of the great outdoors, and relive all those camping trips you never went on, now with added guilt and regret. </description>
         </item>
-    </category>
 </product>
