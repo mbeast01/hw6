@@ -2,12 +2,27 @@
 <?xml-stylesheet type="text/css" href = "style.css" ?>
 <product> 
     <item>
-        <name> Lavendar </name>
+        <name> Lavendar Lullaby</name>
         <category> Herbal </category>
         <price>15</price>
-        <description> Behold, the lavender candle: because your existence is so mundane, you need a glorified wax stick to remind you of the outdoors. 
+        <description> Behold, the lavender candle: because your existence is so monotonous, you need a glorified wax stick to remind you of the outdoors. 
             Let the soothing aroma of lavender mock your futile attempts at finding inner peace, while you drown in a sea of mediocrity. </description>
     </item>
+    <item>
+        <name> Sagebrush Serenade </name>
+        <category> Herbal </category>
+        <price>15</price>
+        <description> Because who needs a real adventure when you can light a candle and pretend you're having a thrilling encounter with a herb? 
+            Spoiler alert: Your life will still be as mundane as ever.</description>
+    </item>
+    <item>
+        <name> Chamomile Carnival </name>
+        <category> Herbal </category>
+        <price>15</price>
+        <description> Because nothing screams excitement like the subtle scent of chamomile. 
+            Embrace the mediocrity as you reminisce about the days when you had dreams, before they were crushed by reality. </description>
+    </item>
+    
     <item>
         <name> Birthday Cake </name>
         <category> Sweet </category>
