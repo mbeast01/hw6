@@ -11,7 +11,7 @@ product {
 category {
     display:inline-block; 
     color: rgb(102, 0, 102);
-    border: .5 px dashed rgb(102, 0, 102);
+    border: .5 px solid rgb(102, 0, 102);
 }
 item {
     display:block; 
