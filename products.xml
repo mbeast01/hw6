@@ -1,12 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Listings>
-<Listing type = "residential">
-<StreetAddress>
-<StreetNumber>100</StreetNumber>
-<StreetName>Maple Street</StreetName>
-</StreetAddress>
-<City>Rochester</City>
-<State>New York</State>
-<Zip>14623</Zip>
-</Listing>
-</Listings>
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "style.css" ?>
+  <products>
+    <flower>
+      <type>carnation</type>
+      <price>10</price>
+      <colors>
+        <color>pink</color>
+        <color>white</color>
+      </colors>
+    </flower>
+    <flower>
+      <type>rose</type>
+      <price>15</price>
+      <colors>
+        <color>yellow</color>
+        <color>red</color>
+        <color>pink</color>
+      </colors>
+    </flower>
+  </products>
