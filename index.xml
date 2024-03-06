@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href = "style.css" ?>
-<product>
-    <category> 
-        <item>
-            <name>carnation</name>
-            <price>10</price>
-            <description> </description>
-        </item>
-    </category>
+<product> 
+    <item>
+        <name>carnation</name>
+        <price>10</price>
+        <description> </description>
+    </item>
 </product>
