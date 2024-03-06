@@ -8,6 +8,12 @@ product {
     padding: 20px;
     background-color: rgb(102, 255, 204);
 }
+category {
+    display:inline-block; 
+    color: rgb(102, 0, 102);
+    border: .5 px dashed;
+    border-color: rgb(102, 0, 102);
+}
 item {
     display:block; 
     margin-bottom: 30px;
@@ -17,12 +23,7 @@ item name {
     font-size: 36px; 
     text-transform: capitalize;
     color: rgb(0, 51, 0); 
-    width: 160px;
-}
-item category {
-    display:inline-block; 
-    color: rgb(102, 0, 102);
-    border: .5 px dotted rgb(102, 0, 102);
+    width: 200px;
 }
 item price{
     font-size:28px; 
