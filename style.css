@@ -21,7 +21,7 @@ category categoryname{
     border: 1px dashed rgb(102, 0, 102);
     width: 50%;
     padding: 5px;
-    margin: 0 auto;
+    margin: auto;
 }
 category item {
     display:inline-block; 
