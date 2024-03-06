@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Listings>
+<Listing type = "residential">
+<StreetAddress>
+<StreetNumber>100</StreetNumber>
+<StreetName>Maple Street</StreetName>
+</StreetAddress>
+<City>Rochester</City>
+<State>New York</State>
+<Zip>14623</Zip>
+</Listing>
+</Listings>
