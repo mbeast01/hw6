@@ -1,50 +1,49 @@
 @charset "utf-8";
 
 product {
-    width: 80%; 
+    width: 90%; 
     margin: 50px auto 0 auto; 
-    border:.5px solid rgb(102, 0, 102); 
+    border:3px solid rgb(102, 0, 102); 
     min-height: 300px; 
     padding: 20px;
-    background-color: rgb(102, 255, 204);
+    background-color: rgb(109, 245, 199);
+    font-family: monospace;
 }
 
 item {
-    display:inline-block; 
-    border: 1px dashed rgb(102, 0, 102);
-    width: 25%;
-    margin: 5px;
+    border: 2px dashed rgb(102, 0, 102);
+    width: 70%;
+    height: 20%;
+    margin: auto;
+    margin-top: 10px;
     padding: 10px;
     display: block;
 }
 item name {
     display:inline-block; 
-    font-size: 30px;
+    font-size: 22px;
     text-transform: capitalize;
     text-align: center;
     color: rgb(0, 51, 0); 
     padding:2px;
     width: 150px;
+    border: 2px solid rgb(102, 0, 102);
 }
 item price, item category{
-    font-size:25px; 
+    font-size:18px; 
     padding: 5px;
     display:inline-block;
 }
 item price:before {
     content:"$"; 
 }
-item description: before {
-    content: "Candle Descriptions"; 
-    font-size: 17px; 
-    width: 50%;
+item description {
+    display: block;
+    font-size: 10px; 
+    width: 95%;
+    padding: 5px;
+    text-align: center;
 }
 
-item description: {
-    list-style-type:disc; 
-    list-style-position: inside;
-    display:list-item;
-    font-size: 17px; 
-    width: 50%;
-}
+
 
