@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href = "style.css" ?>
-  <product>
-    <flower>
-      <type>carnation</type>
-      <price>10</price>
-      <colors>
-        <color>pink</color>
-        <color>white</color>
-      </colors>
-    </flower>
-    <flower>
-      <type>rose</type>
-      <price>15</price>
-      <colors>
-        <color>yellow</color>
-        <color>red</color>
-        <color>pink</color>
-      </colors>
-    </flower>
-  </product>
+<product>
+    <category> 
+        <item>
+            <name>carnation</name>
+            <price>10</price>
+            <description> </description>
+        </item>
+    </category>
+</product>
